@@ -19,14 +19,13 @@
         app:layout_constraintVertical_bias="0.13" />
 
     <include
-        android:id="@+id/include"
+        android:id="@+id/imagesWrapper"
         layout="@layout/x8images"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="372dp"
+        android:layout_height="533dp"
         android:layout_marginTop="116dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

@@ -16,7 +16,7 @@
         <ImageView
             android:id="@+id/paw1"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -24,7 +24,7 @@
         <ImageView
             android:id="@+id/paw2"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -32,7 +32,7 @@
         <ImageView
             android:id="@+id/paw3"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -40,7 +40,7 @@
         <ImageView
             android:id="@+id/paw4"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -58,7 +58,7 @@
         <ImageView
             android:id="@+id/paw5"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -66,7 +66,7 @@
         <ImageView
             android:id="@+id/paw6"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -74,7 +74,7 @@
         <ImageView
             android:id="@+id/paw7"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -82,7 +82,7 @@
         <ImageView
             android:id="@+id/paw8"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -101,7 +101,7 @@
         <ImageView
             android:id="@+id/paw9"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -109,7 +109,7 @@
         <ImageView
             android:id="@+id/paw10"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -117,7 +117,7 @@
         <ImageView
             android:id="@+id/paw11"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -125,7 +125,7 @@
         <ImageView
             android:id="@+id/paw12"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -144,7 +144,7 @@
         <ImageView
             android:id="@+id/paw13"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -152,7 +152,7 @@
         <ImageView
             android:id="@+id/paw14"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -160,7 +160,7 @@
         <ImageView
             android:id="@+id/paw15"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
@@ -168,7 +168,7 @@
         <ImageView
             android:id="@+id/paw16"
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
             android:scaleType="centerInside"
             android:src="@drawable/pawprint" />
